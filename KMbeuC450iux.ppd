@@ -220,10 +220,14 @@
 *fr.Translation WaitMode/Type de sortie: ""
 *fr.WaitMode None/Impression: ""
 *fr.WaitMode ProofMode/Impression <C3A9>preuve: ""
-*fr.Translation SelectColor/S<C3A9>lectionner couleur: ""
-*fr.SelectColor Auto/Couleur Auto: ""
-*fr.SelectColor Color/En couleurs: ""
-*fr.SelectColor Grayscale/Niveaux de gris: ""
+*fr.Translation ColorModel
+/S<C3A9>lectionner couleur: ""
+*fr.ColorModel
+ Auto/Couleur Auto: ""
+*fr.ColorModel
+ Color/En couleurs: ""
+*fr.ColorModel
+ Grayscale/Niveaux de gris: ""
 *fr.Translation GlossyMode/Mode brillant: ""
 *fr.GlossyMode False/Non: ""
 *fr.GlossyMode True/Oui: ""
@@ -671,10 +675,14 @@
 *it.Translation WaitMode/Metodo di uscita: ""
 *it.WaitMode None/Stampa: ""
 *it.WaitMode ProofMode/Prova stampa: ""
-*it.Translation SelectColor/Seleziona colore: ""
-*it.SelectColor Auto/Colore autom: ""
-*it.SelectColor Color/Quadricromia: ""
-*it.SelectColor Grayscale/Scala grigi: ""
+*it.Translation ColorModel
+/Seleziona colore: ""
+*it.ColorModel
+ Auto/Colore autom: ""
+*it.ColorModel
+ Color/Quadricromia: ""
+*it.ColorModel
+ Grayscale/Scala grigi: ""
 *it.Translation GlossyMode/Modalit<C3A0> carta lucida: ""
 *it.GlossyMode False/No: ""
 *it.GlossyMode True/S<C3AC>: ""
@@ -1122,10 +1130,14 @@
 *de.Translation WaitMode/Ausgabe-Modus: ""
 *de.WaitMode None/Drucken: ""
 *de.WaitMode ProofMode/Testdruck: ""
-*de.Translation SelectColor/Farbe ausw<C3A4>hlen: ""
-*de.SelectColor Auto/Auto Farbe: ""
-*de.SelectColor Color/Vollfarbe: ""
-*de.SelectColor Grayscale/Graustufen: ""
+*de.Translation ColorModel
+/Farbe ausw<C3A4>hlen: ""
+*de.ColorModel
+ Auto/Auto Farbe: ""
+*de.ColorModel
+ Color/Vollfarbe: ""
+*de.ColorModel
+ Grayscale/Graustufen: ""
 *de.Translation GlossyMode/Glanz Modus: ""
 *de.GlossyMode False/Aus: ""
 *de.GlossyMode True/Ein: ""
@@ -1575,10 +1587,14 @@
 *es.Translation WaitMode/M<C3A9>todo de salida: ""
 *es.WaitMode None/Impresi<C3B3>n: ""
 *es.WaitMode ProofMode/Impresi<C3B3>n de prueba: ""
-*es.Translation SelectColor/Seleccionar color: ""
-*es.SelectColor Auto/Auto color: ""
-*es.SelectColor Color/A todo color: ""
-*es.SelectColor Grayscale/Escala de grises: ""
+*es.Translation ColorModel
+/Seleccionar color: ""
+*es.ColorModel
+ Auto/Auto color: ""
+*es.ColorModel
+ Color/A todo color: ""
+*es.ColorModel
+ Grayscale/Escala de grises: ""
 *es.Translation GlossyMode/Modo Brillante: ""
 *es.GlossyMode False/Desact.: ""
 *es.GlossyMode True/Activ.: ""
@@ -1999,10 +2015,14 @@
 *pt.Translation WaitMode/M<C3A9>todo de Sa<C3AD>da: ""
 *pt.WaitMode None/Imprimir: ""
 *pt.WaitMode ProofMode/Imprimir Teste: ""
-*pt.Translation SelectColor/Seleccionar Cor: ""
-*pt.SelectColor Auto/Cor Auto: ""
-*pt.SelectColor Color/Cor Total: ""
-*pt.SelectColor Grayscale/Escala de Cinza: ""
+*pt.Translation ColorModel
+/Seleccionar Cor: ""
+*pt.ColorModel
+ Auto/Cor Auto: ""
+*pt.ColorModel
+ Color/Cor Total: ""
+*pt.ColorModel
+ Grayscale/Escala de Cinza: ""
 *pt.Translation GlossyMode/Modo Brilhante: ""
 *pt.OriginalImageType Document/Documento: ""
 *pt.OriginalImageType Photo/Foto: ""
@@ -2407,10 +2427,14 @@
 *nl.Translation WaitMode/Uitvoermethode: ""
 *nl.WaitMode None/Afdrukken: ""
 *nl.WaitMode ProofMode/Proefafdruk: ""
-*nl.Translation SelectColor/Selecteer kleur: ""
-*nl.SelectColor Auto/Auto kleur: ""
-*nl.SelectColor Color/4-kleuren: ""
-*nl.SelectColor Grayscale/Grijswaarden: ""
+*nl.Translation ColorModel
+/Selecteer kleur: ""
+*nl.ColorModel
+ Auto/Auto kleur: ""
+*nl.ColorModel
+ Color/4-kleuren: ""
+*nl.ColorModel
+ Grayscale/Grijswaarden: ""
 *nl.Translation GlossyMode/Glanzende modus: ""
 *nl.GlossyMode False/Uit: ""
 *nl.GlossyMode True/Aan: ""
@@ -2872,10 +2896,14 @@
 *da.Translation WaitMode/Output-metode: ""
 *da.WaitMode None/Udskriv: ""
 *da.WaitMode ProofMode/Korrekturprint: ""
-*da.Translation SelectColor/V<C3A6>lg farve: ""
-*da.SelectColor Auto/Autofarve: ""
-*da.SelectColor Color/Fuldfarve: ""
-*da.SelectColor Grayscale/Gr<C3A5>skala: ""
+*da.Translation ColorModel
+/V<C3A6>lg farve: ""
+*da.ColorModel
+ Auto/Autofarve: ""
+*da.ColorModel
+ Color/Fuldfarve: ""
+*da.ColorModel
+ Grayscale/Gr<C3A5>skala: ""
 *da.Translation GlossyMode/Blank tilstand: ""
 *da.GlossyMode False/Fra: ""
 *da.GlossyMode True/Til: ""
@@ -3324,10 +3352,14 @@
 *se.Translation WaitMode/Utmatningsmetod: ""
 *se.WaitMode None/Skriv ut: ""
 *se.WaitMode ProofMode/Provtryck: ""
-*se.Translation SelectColor/V<C3A4>lj f<C3A4>rg: ""
-*se.SelectColor Auto/Autof<C3A4>rg: ""
-*se.SelectColor Color/Fullf<C3A4>rg: ""
-*se.SelectColor Grayscale/Gr<C3A5>skala: ""
+*se.Translation ColorModel
+/V<C3A4>lj f<C3A4>rg: ""
+*se.ColorModel
+ Auto/Autof<C3A4>rg: ""
+*se.ColorModel
+ Color/Fullf<C3A4>rg: ""
+*se.ColorModel
+ Grayscale/Gr<C3A5>skala: ""
 *se.Translation GlossyMode/Glansfunktion: ""
 *se.GlossyMode False/Av: ""
 *se.GlossyMode True/P<C3A5>: ""
@@ -3776,10 +3808,14 @@
 *no.Translation WaitMode/Utskriftsmetode: ""
 *no.WaitMode None/Utskrift: ""
 *no.WaitMode ProofMode/Testutskrift: ""
-*no.Translation SelectColor/Velg farge: ""
-*no.SelectColor Auto/Autom. farge: ""
-*no.SelectColor Color/Fullfarge: ""
-*no.SelectColor Grayscale/Gr<C3A5>skala: ""
+*no.Translation ColorModel
+/Velg farge: ""
+*no.ColorModel
+ Auto/Autom. farge: ""
+*no.ColorModel
+ Color/Fullfarge: ""
+*no.ColorModel
+ Grayscale/Gr<C3A5>skala: ""
 *no.Translation GlossyMode/Glanset modus: ""
 *no.GlossyMode False/Av: ""
 *no.GlossyMode True/P<C385>: ""
@@ -4236,10 +4272,14 @@
 *fi.Translation WaitMode/Viimeistelytapa: ""
 *fi.WaitMode None/Tulostus: ""
 *fi.WaitMode ProofMode/Koetuloste: ""
-*fi.Translation SelectColor/Valitse v<C3A4>ri: ""
-*fi.SelectColor Auto/Autom. v<C3A4>ri: ""
-*fi.SelectColor Color/T<C3A4>ysv<C3A4>ri: ""
-*fi.SelectColor Grayscale/Harmaas<C3A4>vy: ""
+*fi.Translation ColorModel
+/Valitse v<C3A4>ri: ""
+*fi.ColorModel
+ Auto/Autom. v<C3A4>ri: ""
+*fi.ColorModel
+ Color/T<C3A4>ysv<C3A4>ri: ""
+*fi.ColorModel
+ Grayscale/Harmaas<C3A4>vy: ""
 *fi.Translation GlossyMode/Kiilt<C3A4>v<C3A4> tila: ""
 *fi.GlossyMode False/Pois: ""
 *fi.GlossyMode True/P<C3A4C3A4>ll<C3A4>: ""
@@ -4698,10 +4738,14 @@
 *gr.Translation WaitMode/<CE9CCEADCEB8CEBFCEB4CEBFCF8220CEB5CEBECEB1CEB3CF89CEB3CEAECF82>: ""
 *gr.WaitMode None/<CE95CEBACF84CF8DCF80CF89CF83CEB7>: ""
 *gr.WaitMode ProofMode/<CE95CEBACF84CF8DCF80CF89CF83CEB720CEB4CEBFCEBACEB9CEBCCEAFCEBFCF85>: ""
-*gr.Translation SelectColor/<CE95CF80CEB9CEBBCEADCEBECF84CEB520CF87CF81CF8ECEBCCEB1>: ""
-*gr.SelectColor Auto/<CE91CF85CF84CF8CCEBCCEB1CF84CEBF20CF87CF81CF8ECEBCCEB1>: ""
-*gr.SelectColor Color/<CEA0CEBBCEAECF81CEB5CF8220CF87CF81CF8ECEBCCEB1>: ""
-*gr.SelectColor Grayscale/<CE9ACEBBCEAFCEBCCEB1CEBACEB120CEB3CEBACF81CEB9>: ""
+*gr.Translation ColorModel
+/<CE95CF80CEB9CEBBCEADCEBECF84CEB520CF87CF81CF8ECEBCCEB1>: ""
+*gr.ColorModel
+ Auto/<CE91CF85CF84CF8CCEBCCEB1CF84CEBF20CF87CF81CF8ECEBCCEB1>: ""
+*gr.ColorModel
+ Color/<CEA0CEBBCEAECF81CEB5CF8220CF87CF81CF8ECEBCCEB1>: ""
+*gr.ColorModel
+ Grayscale/<CE9ACEBBCEAFCEBCCEB1CEBACEB120CEB3CEBACF81CEB9>: ""
 *gr.Translation GlossyMode/<CE9BCEB5CEB9CF842E> <CEB3CF85CEB1CEBBCEB9CF83CF84CEB5CF81CF8C>: ""
 *gr.OriginalImageType Document/<CE88CEB3CEB3CF81CEB1CF86CEBF>: ""
 *gr.OriginalImageType Photo/<CEA6CF89CF84CEBFCEB3CF812E>: ""
@@ -5146,10 +5190,14 @@
 *tr.Translation WaitMode/<C387C4B1>kt<C4B1> Metodu: ""
 *tr.WaitMode None/Yazd<C4B1>r: ""
 *tr.WaitMode ProofMode/Prova Bask<C4B1>: ""
-*tr.Translation SelectColor/Rengi Se<C3A7>: ""
-*tr.SelectColor Auto/Otomatik Renk: ""
-*tr.SelectColor Color/Tam Renk: ""
-*tr.SelectColor Grayscale/Gri Skala: ""
+*tr.Translation ColorModel
+/Rengi Se<C3A7>: ""
+*tr.ColorModel
+ Auto/Otomatik Renk: ""
+*tr.ColorModel
+ Color/Tam Renk: ""
+*tr.ColorModel
+ Grayscale/Gri Skala: ""
 *tr.Translation GlossyMode/Parlak Modu: ""
 *tr.GlossyMode False/Kap.: ""
 *tr.GlossyMode True/A<C3A7C4B1>k: ""
@@ -5622,10 +5670,14 @@
 *cz.Translation WaitMode/Zp<C5AF>sob v<C3BD>stupu: ""
 *cz.WaitMode None/Tisk: ""
 *cz.WaitMode ProofMode/Zku<C5A1>ebn<C3AD> v<C3BD>tisk: ""
-*cz.Translation SelectColor/Zvolit barvu: ""
-*cz.SelectColor Auto/Automatick<C3A1> barva: ""
-*cz.SelectColor Color/Pln<C49B> barevn<C49B>: ""
-*cz.SelectColor Grayscale/Stupn<C49B> <C5A1>edi: ""
+*cz.Translation ColorModel
+/Zvolit barvu: ""
+*cz.ColorModel
+ Auto/Automatick<C3A1> barva: ""
+*cz.ColorModel
+ Color/Pln<C49B> barevn<C49B>: ""
+*cz.ColorModel
+ Grayscale/Stupn<C49B> <C5A1>edi: ""
 *cz.Translation GlossyMode/Leskl<C3BD> re<C5BE>im: ""
 *cz.GlossyMode False/Vyp: ""
 *cz.GlossyMode True/Zap: ""
@@ -6086,10 +6138,14 @@
 *hu.Translation WaitMode/Kimeneti m<C3B3>dszer: ""
 *hu.WaitMode None/Nyomtat: ""
 *hu.WaitMode ProofMode/Levonat nyomtat<C3A1>sa: ""
-*hu.Translation SelectColor/Sz<C3AD>n v<C3A1>laszt<C3A1>sa: ""
-*hu.SelectColor Auto/Autom. sz<C3AD>n: ""
-*hu.SelectColor Color/<C396>sszes sz<C3AD>n: ""
-*hu.SelectColor Grayscale/Sz<C3BC>rke<C3A1>rnyalat: ""
+*hu.Translation ColorModel
+/Sz<C3AD>n v<C3A1>laszt<C3A1>sa: ""
+*hu.ColorModel
+ Auto/Autom. sz<C3AD>n: ""
+*hu.ColorModel
+ Color/<C396>sszes sz<C3AD>n: ""
+*hu.ColorModel
+ Grayscale/Sz<C3BC>rke<C3A1>rnyalat: ""
 *hu.Translation GlossyMode/F<C3A9>nyes m<C3B3>d: ""
 *hu.GlossyMode False/Ki: ""
 *hu.GlossyMode True/Be: ""
@@ -6548,10 +6604,14 @@
 *pl.Translation WaitMode/Metoda wydruku: ""
 *pl.WaitMode None/Drukuj: ""
 *pl.WaitMode ProofMode/Wydruk pr<C3B3>bny: ""
-*pl.Translation SelectColor/Wybierz kolor: ""
-*pl.SelectColor Auto/Kolor Autom: ""
-*pl.SelectColor Color/Pe<C582>en kolor: ""
-*pl.SelectColor Grayscale/Skala szaro<C59B>ci: ""
+*pl.Translation ColorModel
+/Wybierz kolor: ""
+*pl.ColorModel
+ Auto/Kolor Autom: ""
+*pl.ColorModel
+ Color/Pe<C582>en kolor: ""
+*pl.ColorModel
+ Grayscale/Skala szaro<C59B>ci: ""
 *pl.Translation GlossyMode/Tryb B<C582>yszcz<C485>cy: ""
 *pl.GlossyMode False/WY<C581>: ""
 *pl.GlossyMode True/W<C582>: ""
@@ -7028,10 +7088,14 @@
 *ru.Translation WaitMode/<D09CD0B5D182D0BED0B420D0B2D18BD0B2D0BED0B4D0B0>: ""
 *ru.WaitMode None/<D09FD0B5D187D0B0D182D18C>: ""
 *ru.WaitMode ProofMode/<D09FD180D0BED0B1D0BDD0B0D18F20D0BFD0B5D187D0B0D182D18C>: ""
-*ru.Translation SelectColor/<D092D18BD0B1D180D0B0D182D18C20D186D0B2D0B5D182>: ""
-*ru.SelectColor Auto/<D090D0B2D182D0BED186D0B2D0B5D182>: ""
-*ru.SelectColor Color/<D09FD0BED0BBD0BDD0BED186D0B2D0B5D182D0BDD18BD0B9>: ""
-*ru.SelectColor Grayscale/<D093D180D0B0D0B4D0B0D186D0B8D0B820D181D0B5D180>.: ""
+*ru.Translation ColorModel
+/<D092D18BD0B1D180D0B0D182D18C20D186D0B2D0B5D182>: ""
+*ru.ColorModel
+ Auto/<D090D0B2D182D0BED186D0B2D0B5D182>: ""
+*ru.ColorModel
+ Color/<D09FD0BED0BBD0BDD0BED186D0B2D0B5D182D0BDD18BD0B9>: ""
+*ru.ColorModel
+ Grayscale/<D093D180D0B0D0B4D0B0D186D0B8D0B820D181D0B5D180>.: ""
 *ru.Translation GlossyMode/<D0A0D0B5D0B6D0B8D0BC20D0B3D0BBD18FD0BDD186D0B5D0B2D0B0D0BDD0B8D18F>: ""
 *ru.GlossyMode False/<D092D18BD0BAD0BB>: ""
 *ru.GlossyMode True/<D092D0BAD0BB>: ""
@@ -7522,10 +7586,14 @@
 *sk.Translation WaitMode/Sp<C3B4>sob v<C3BD>stupu: ""
 *sk.WaitMode None/Tla<C48D>: ""
 *sk.WaitMode ProofMode/Sk<C3BAC5A1>obn<C3A1> tla<C48D>: ""
-*sk.Translation SelectColor/V<C3BD>ber farby: ""
-*sk.SelectColor Auto/Automatick<C3A1> farba: ""
-*sk.SelectColor Color/Plnofarebne: ""
-*sk.SelectColor Grayscale/Stupne <C5A1>edej: ""
+*sk.Translation ColorModel
+/V<C3BD>ber farby: ""
+*sk.ColorModel
+ Auto/Automatick<C3A1> farba: ""
+*sk.ColorModel
+ Color/Plnofarebne: ""
+*sk.ColorModel
+ Grayscale/Stupne <C5A1>edej: ""
 *sk.Translation GlossyMode/Leskl<C3BD> re<C5BE>im: ""
 *sk.GlossyMode False/Vypn<C3BAC5A5>: ""
 *sk.GlossyMode True/Zapn<C3BAC5A5>: ""
@@ -7982,10 +8050,14 @@
 *ca.Translation WaitMode/M<C3A8>tode de sortida: ""
 *ca.WaitMode None/Impressi<C3B3>: ""
 *ca.WaitMode ProofMode/Impressi<C3B3> de prova: ""
-*ca.Translation SelectColor/Seleccionar color: ""
-*ca.SelectColor Auto/Color auto: ""
-*ca.SelectColor Color/A tot color: ""
-*ca.SelectColor Grayscale/Escala de grisos: ""
+*ca.Translation ColorModel
+/Seleccionar color: ""
+*ca.ColorModel
+ Auto/Color auto: ""
+*ca.ColorModel
+ Color/A tot color: ""
+*ca.ColorModel
+ Grayscale/Escala de grisos: ""
 *ca.Translation GlossyMode/Mode brillant: ""
 *ca.GlossyMode False/Desact.: ""
 *ca.GlossyMode True/Activ.: ""
@@ -8434,10 +8506,14 @@
 *hr.Translation WaitMode/Na<C48D>in ispisa: ""
 *hr.WaitMode None/Ispi<C5A1>i: ""
 *hr.WaitMode ProofMode/Probni ispis: ""
-*hr.Translation SelectColor/Odaberi Boju: ""
-*hr.SelectColor Auto/Automatska Boja: ""
-*hr.SelectColor Color/Puna boja: ""
-*hr.SelectColor Grayscale/Crno bijelo: ""
+*hr.Translation ColorModel
+/Odaberi Boju: ""
+*hr.ColorModel
+ Auto/Automatska Boja: ""
+*hr.ColorModel
+ Color/Puna boja: ""
+*hr.ColorModel
+ Grayscale/Crno bijelo: ""
 *hr.Translation GlossyMode/Sa sjajem: ""
 *hr.GlossyMode False/Isklju<C48D>eno: ""
 *hr.GlossyMode True/Uklju<C48D>eno: ""
@@ -8910,9 +8986,12 @@
 *ro.Translation WaitMode/Metod<C483> Ie<C59F>ire: ""
 *ro.WaitMode None/Imprimare: ""
 *ro.WaitMode ProofMode/Imprimare prob<C483>: ""
-*ro.Translation SelectColor/Selectare Culoare: ""
-*ro.SelectColor Color/Complet color: ""
-*ro.SelectColor Grayscale/Gam<C483> de gri: ""
+*ro.Translation ColorModel
+/Selectare Culoare: ""
+*ro.ColorModel
+ Color/Complet color: ""
+*ro.ColorModel
+ Grayscale/Gam<C483> de gri: ""
 *ro.Translation GlossyMode/Mod Lucios: ""
 *ro.GlossyMode False/Oprit: ""
 *ro.GlossyMode True/Pornit: ""
@@ -9382,10 +9461,14 @@
 *sl.Translation WaitMode/Metoda izpisa: ""
 *sl.WaitMode None/Tiskanje: ""
 *sl.WaitMode ProofMode/Preizkusno tiskanje: ""
-*sl.Translation SelectColor/Izberi barvo: ""
-*sl.SelectColor Auto/Samodejna barva: ""
-*sl.SelectColor Color/Polne barve: ""
-*sl.SelectColor Grayscale/Lestvica sivine: ""
+*sl.Translation ColorModel
+/Izberi barvo: ""
+*sl.ColorModel
+ Auto/Samodejna barva: ""
+*sl.ColorModel
+ Color/Polne barve: ""
+*sl.ColorModel
+ Grayscale/Lestvica sivine: ""
 *sl.Translation GlossyMode/Sijajni na<C48D>in: ""
 *sl.GlossyMode False/Izklop: ""
 *sl.GlossyMode True/Vklop: ""
@@ -9863,10 +9946,14 @@
 *eu.Translation WaitMode/Irteera metodoa: ""
 *eu.WaitMode None/Inprimatu: ""
 *eu.WaitMode ProofMode/Probako inprimaketa: ""
-*eu.Translation SelectColor/Hautatu kolorea: ""
-*eu.SelectColor Auto/Kolore automatikoa: ""
-*eu.SelectColor Color/Koloretan: ""
-*eu.SelectColor Grayscale/Grisen eskala: ""
+*eu.Translation ColorModel
+/Hautatu kolorea: ""
+*eu.ColorModel
+ Auto/Kolore automatikoa: ""
+*eu.ColorModel
+ Color/Koloretan: ""
+*eu.ColorModel
+ Grayscale/Grisen eskala: ""
 *eu.Translation GlossyMode/Satinatu modua: ""
 *eu.GlossyMode False/Itzalita: ""
 *eu.GlossyMode True/Piztuta: ""
@@ -10334,10 +10421,14 @@
 *zh_CN.Translation WaitMode/<E8BE93E587BAE696B9E5BC8F>: ""
 *zh_CN.WaitMode None/<E699AEE9809AE68993E58DB0>: ""
 *zh_CN.WaitMode ProofMode/<E6A0A1E6A0B7E68993E58DB0>: ""
-*zh_CN.Translation SelectColor/<E9A29CE889B2E98089E68BA9>: ""
-*zh_CN.SelectColor Auto/<E887AAE58AA8E5BDA9E889B2>: ""
-*zh_CN.SelectColor Color/<E585A8E5BDA9>: ""
-*zh_CN.SelectColor Grayscale/<E781B0E5BAA6E7BAA7>: ""
+*zh_CN.Translation ColorModel
+/<E9A29CE889B2E98089E68BA9>: ""
+*zh_CN.ColorModel
+ Auto/<E887AAE58AA8E5BDA9E889B2>: ""
+*zh_CN.ColorModel
+ Color/<E585A8E5BDA9>: ""
+*zh_CN.ColorModel
+ Grayscale/<E781B0E5BAA6E7BAA7>: ""
 *zh_CN.Translation GlossyMode/<E58589E6B3BDE6A8A1E5BC8F>: ""
 *zh_CN.GlossyMode False/<E585B3E997AD>: ""
 *zh_CN.GlossyMode True/<E590AFE794A8>: ""
@@ -11743,10 +11834,14 @@
 *en.WaitMode None/Print: ""
 *en.WaitMode ProofMode/Proof Print: ""
 
-*en.Translation SelectColor/Select Color: ""
-*en.SelectColor Auto/Auto Color: ""
-*en.SelectColor Color/Full Color: ""
-*en.SelectColor Grayscale/Gray Scale: ""
+*en.Translation ColorModel
+/Select Color: ""
+*en.ColorModel
+ Auto/Auto Color: ""
+*en.ColorModel
+ Color/Full Color: ""
+*en.ColorModel
+ Grayscale/Gray Scale: ""
 
 *en.Translation GlossyMode/Glossy Mode: ""
 *en.GlossyMode False/Off: ""
@@ -13457,8 +13552,10 @@
 *UIConstraints: *MediaType Transparency *Fold TriFold
 *UIConstraints: *MediaType Transparency *Fold ZFold1
 *UIConstraints: *MediaType Transparency *Fold ZFold2
-*UIConstraints: *MediaType Transparency *SelectColor Auto
-*UIConstraints: *MediaType Transparency *SelectColor Color
+*UIConstraints: *MediaType Transparency *ColorModel
+ Auto
+*UIConstraints: *MediaType Transparency *ColorModel
+ Color
 *UIConstraints: *MediaType Transparency *GlossyMode True
 *UIConstraints: *MediaType Transparency *Model C4051i
 *UIConstraints: *MediaType Transparency *Model C3351i
@@ -16488,14 +16585,22 @@
 *UIConstraints: *OHPOpTray LCT *Model C4000i
 *UIConstraints: *OHPOpTray LCT *Model C3300i
 *UIConstraints: *OHPOpTray LCT *Model C3320i
-*UIConstraints: *SelectColor Auto *MediaType Transparency
-*UIConstraints: *SelectColor Color *MediaType Transparency
-*UIConstraints: *SelectColor Grayscale *AutoTrapping True
-*UIConstraints: *SelectColor Grayscale *BlackOverPrint Text
-*UIConstraints: *SelectColor Grayscale *BlackOverPrint TextGraphic
-*UIConstraints: *SelectColor Grayscale *TextColorMatching Colorimetric
-*UIConstraints: *SelectColor Grayscale *PhotoColorMatching Colorimetric
-*UIConstraints: *SelectColor Grayscale *GraphicColorMatching Colorimetric
+*UIConstraints: *ColorModel
+ Auto *MediaType Transparency
+*UIConstraints: *ColorModel
+ Color *MediaType Transparency
+*UIConstraints: *ColorModel
+ Grayscale *AutoTrapping True
+*UIConstraints: *ColorModel
+ Grayscale *BlackOverPrint Text
+*UIConstraints: *ColorModel
+ Grayscale *BlackOverPrint TextGraphic
+*UIConstraints: *ColorModel
+ Grayscale *TextColorMatching Colorimetric
+*UIConstraints: *ColorModel
+ Grayscale *PhotoColorMatching Colorimetric
+*UIConstraints: *ColorModel
+ Grayscale *GraphicColorMatching Colorimetric
 *UIConstraints: *GlossyMode True *MediaType Thick1
 *UIConstraints: *GlossyMode True *MediaType Thick1(2nd)
 *UIConstraints: *GlossyMode True *MediaType Thick1Plus
@@ -16529,12 +16634,18 @@
 *UIConstraints: *OriginalImageType CAD *LineWidthAdjustment Normal
 *UIConstraints: *OriginalImageType CAD *LineWidthAdjustment SlightlyThick
 *UIConstraints: *OriginalImageType CAD *LineWidthAdjustment Thick
-*UIConstraints: *AutoTrapping True *SelectColor Grayscale
-*UIConstraints: *BlackOverPrint Text *SelectColor Grayscale
-*UIConstraints: *BlackOverPrint TextGraphic *SelectColor Grayscale
-*UIConstraints: *TextColorMatching Colorimetric *SelectColor Grayscale
-*UIConstraints: *PhotoColorMatching Colorimetric *SelectColor Grayscale
-*UIConstraints: *GraphicColorMatching Colorimetric *SelectColor Grayscale
+*UIConstraints: *AutoTrapping True *ColorModel
+ Grayscale
+*UIConstraints: *BlackOverPrint Text *ColorModel
+ Grayscale
+*UIConstraints: *BlackOverPrint TextGraphic *ColorModel
+ Grayscale
+*UIConstraints: *TextColorMatching Colorimetric *ColorModel
+ Grayscale
+*UIConstraints: *PhotoColorMatching Colorimetric *ColorModel
+ Grayscale
+*UIConstraints: *GraphicColorMatching Colorimetric *ColorModel
+ Grayscale
 *UIConstraints: *LineWidthAdjustment Thin *OriginalImageType CAD
 *UIConstraints: *LineWidthAdjustment SlightlyThin *OriginalImageType CAD
 *UIConstraints: *LineWidthAdjustment Normal *OriginalImageType CAD
@@ -20395,5 +20506,4 @@
 *en.PageRegion StatementExtra/5 1/2x8 1/2W: ""
 *en.PageRegion LetterTab-F/8 1/2x11 Tab: ""
 *en.PageRegion A4Tab-F/A4 Tab: ""
-
 
