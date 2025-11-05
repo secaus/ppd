@@ -10,7 +10,7 @@
 *ModelName: "KONICA MINOLTA C750iSeriesPS/P"
 *ShortNickName: "KONICA MINOLTA C750i"
 *NickName:	"KONICA MINOLTA C750iSeriesPS(P) BEU v1.2"
-*PCFileName:	"KMbeuC750iux.ppd"
+*PCFileName:	"KMbeuC450iux.ppd"
 *Product: "(KONICA MINOLTA C750i)"
 *PSVersion: "(3016.102) 1"
 
@@ -20395,4 +20395,5 @@
 *en.PageRegion StatementExtra/5 1/2x8 1/2W: ""
 *en.PageRegion LetterTab-F/8 1/2x11 Tab: ""
 *en.PageRegion A4Tab-F/A4 Tab: ""
+
 
